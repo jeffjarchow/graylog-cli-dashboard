@@ -1,0 +1,113 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "graylog-cli-dashboard",
+        "scope": null,
+        "escapedName": "graylog-cli-dashboard",
+        "name": "graylog-cli-dashboard",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\jjarchow\\Desktop\\All"
+    ]
+  ],
+  "_from": "graylog-cli-dashboard@latest",
+  "_id": "graylog-cli-dashboard@1.1.1",
+  "_inCache": true,
+  "_location": "/graylog-cli-dashboard",
+  "_nodeVersion": "8.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/graylog-cli-dashboard-1.1.1.tgz_1504013628703_0.22674889187328517"
+  },
+  "_npmUser": {
+    "name": "strml",
+    "email": "samuel.trace.reed@gmail.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "graylog-cli-dashboard",
+    "scope": null,
+    "escapedName": "graylog-cli-dashboard",
+    "name": "graylog-cli-dashboard",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/graylog-cli-dashboard/-/graylog-cli-dashboard-1.1.1.tgz",
+  "_shasum": "67fdeeb47eaf1c181dc9ce62e0ccde9f9490db7a",
+  "_shrinkwrap": null,
+  "_spec": "graylog-cli-dashboard",
+  "_where": "C:\\Users\\jjarchow\\Desktop\\All",
+  "author": {
+    "name": "Lennart Koopmann",
+    "email": "lennart@torch.sh"
+  },
+  "bin": {
+    "graylog-dashboard": "graylog-dashboard.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Graylog2/cli-dashboard/issues"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.5.5",
+    "bluebird": "^3.4.6",
+    "inquirer": "^1.2.2",
+    "js-yaml": "^3.2.5",
+    "moment": "^2.9.0",
+    "request": "^2.76.0",
+    "yargs": "^6.3.0"
+  },
+  "description": "CLI dashboard for Graylog because ain't nobody got time for browser windows.",
+  "devDependencies": {
+    "eslint": "^3.9.0",
+    "semver": "^5.3.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-DMqGXTeI5mFzeUkvpEbemM3wnj/dAounSflqmRhgEkje79FpWL9d/Uf57WFY/nrjtqI6XrVWKEw9LFg7YmFAmw==",
+    "shasum": "67fdeeb47eaf1c181dc9ce62e0ccde9f9490db7a",
+    "tarball": "https://registry.npmjs.org/graylog-cli-dashboard/-/graylog-cli-dashboard-1.1.1.tgz"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "gitHead": "4fceb74592ae2a7461d0466c591159c8e6bc910c",
+  "homepage": "http://www.graylog.org/",
+  "licenses": [
+    {
+      "type": "GPLv3",
+      "url": "https://github.com/Graylog2/cli-dashboard/blob/master/COPYING"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "graylogorg",
+      "email": "hello@graylog.com"
+    },
+    {
+      "name": "lennartkoopmann",
+      "email": "lennart@torch.sh"
+    },
+    {
+      "name": "strml",
+      "email": "samuel.trace.reed@gmail.com"
+    }
+  ],
+  "name": "graylog-cli-dashboard",
+  "optionalDependencies": {},
+  "preferGlobal": "true",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Graylog2/cli-dashboard.git"
+  },
+  "version": "1.1.1"
+}
